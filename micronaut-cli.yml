@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.autentia
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, data, data-jdbc, docker, file-watch, http-client, java, java-application, jdbc-tomcat, junit, logback, maven, netty-server, postgres, readme, shade, testcontainers, yaml]

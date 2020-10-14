@@ -1,0 +1,13 @@
+micronaut:
+  server:
+    host: localhost
+    port: 8080
+
+postgres:
+    client:
+      port: 5432
+      host: localhost
+      database: autentia
+      user: postgres
+      password: autentia2005
+      maxSize: 5
